@@ -1,0 +1,24 @@
+2021-12-23 01:12:269 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-23 01:12:942 INFO  Page1HomePage :24 - click on next button : [[ChromeDriver: chrome on WINDOWS (8a461b45f05e18b10ecfe368195fb5d4)] -> css selector: #jfCard-welcome-start]
+2021-12-23 01:12:953 INFO  Page2TestForm :29 - Enter the first name : George
+2021-12-23 01:12:118 INFO  Page2TestForm :34 - Enter the last name : Smith
+2021-12-23 01:12:418 INFO  Page2TestForm :39 - Click on the next button on test form page : [[ChromeDriver: chrome on WINDOWS (8a461b45f05e18b10ecfe368195fb5d4)] -> xpath: //div[@data-type='control_fullname']//button[@aria-label='Next'][normalize-space()='Next']]
+2021-12-23 01:12:48 INFO  Page4SignaturePage :53 - Click on the Next Button on signature page : [[ChromeDriver: chrome on WINDOWS (8a461b45f05e18b10ecfe368195fb5d4)] -> xpath: //div[@data-type='control_signature']//button[@aria-label='Next'][normalize-space()='Next']]
+2021-12-23 01:12:502 INFO  Page5DatePage :32 - Selecting the date : [[ChromeDriver: chrome on WINDOWS (8a461b45f05e18b10ecfe368195fb5d4)] -> xpath: //span[@aria-label='Calendar icon']]
+2021-12-23 01:12:519 INFO  Page5DatePage :36 - Click on the next button on date page : [[ChromeDriver: chrome on WINDOWS (8a461b45f05e18b10ecfe368195fb5d4)] -> xpath: //div[@data-type='control_datetime']//button[@aria-label='Next'][normalize-space()='Next']]
+2021-12-23 01:12:573 INFO  Page6SecurityQuestion :28 - Selecting from question dropdown : Name of the first pet
+2021-12-23 01:12:785 INFO  Page6SecurityQuestion :33 - Entering the security answer : Puppy
+2021-12-23 01:12:966 INFO  Page6SecurityQuestion :38 - Click on the Submit button : [[ChromeDriver: chrome on WINDOWS (8a461b45f05e18b10ecfe368195fb5d4)] -> xpath: //button[@class='jfInput-button forSubmit form-submit-button u-right']]
+2021-12-23 01:12:116 INFO  Page7FinalPage :22 - Verifying the submission message: [[ChromeDriver: chrome on WINDOWS (8a461b45f05e18b10ecfe368195fb5d4)] -> xpath: //div[@class='jfThankYou-description form-subHeader']]<br>
+2021-12-23 01:12:603 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-23 01:12:645 INFO  Page1HomePage :24 - click on next button : [[ChromeDriver: chrome on WINDOWS (2ba898163505f5e3151afaaf34cda564)] -> css selector: #jfCard-welcome-start]
+2021-12-23 01:12:666 INFO  Page2TestForm :29 - Enter the first name : George
+2021-12-23 01:12:786 INFO  Page2TestForm :34 - Enter the last name : Smith
+2021-12-23 01:12:68 INFO  Page2TestForm :39 - Click on the next button on test form page : [[ChromeDriver: chrome on WINDOWS (2ba898163505f5e3151afaaf34cda564)] -> xpath: //div[@data-type='control_fullname']//button[@aria-label='Next'][normalize-space()='Next']]
+2021-12-23 01:12:696 INFO  Page4SignaturePage :53 - Click on the Next Button on signature page : [[ChromeDriver: chrome on WINDOWS (2ba898163505f5e3151afaaf34cda564)] -> xpath: //div[@data-type='control_signature']//button[@aria-label='Next'][normalize-space()='Next']]
+2021-12-23 01:12:146 INFO  Page5DatePage :32 - Selecting the date : [[ChromeDriver: chrome on WINDOWS (2ba898163505f5e3151afaaf34cda564)] -> xpath: //span[@aria-label='Calendar icon']]
+2021-12-23 01:12:163 INFO  Page5DatePage :36 - Click on the next button on date page : [[ChromeDriver: chrome on WINDOWS (2ba898163505f5e3151afaaf34cda564)] -> xpath: //div[@data-type='control_datetime']//button[@aria-label='Next'][normalize-space()='Next']]
+2021-12-23 01:12:218 INFO  Page6SecurityQuestion :28 - Selecting from question dropdown : Name of the first pet
+2021-12-23 01:12:417 INFO  Page6SecurityQuestion :33 - Entering the security answer : Puppy
+2021-12-23 01:12:584 INFO  Page6SecurityQuestion :38 - Click on the Submit button : [[ChromeDriver: chrome on WINDOWS (2ba898163505f5e3151afaaf34cda564)] -> xpath: //button[@class='jfInput-button forSubmit form-submit-button u-right']]
+2021-12-23 01:12:679 INFO  Page7FinalPage :22 - Verifying the submission message: [[ChromeDriver: chrome on WINDOWS (2ba898163505f5e3151afaaf34cda564)] -> xpath: //div[@class='jfThankYou-description form-subHeader']]<br>
